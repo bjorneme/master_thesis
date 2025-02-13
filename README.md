@@ -1,7 +1,5 @@
-# master_thesis
+# Master Thesis
 
+Todo:
 - Implement SimCLR
-- Train SimCLR
 - Implement BYOL
-- Train BYOL
-- Implement Vision Mamba
