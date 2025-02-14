@@ -7,4 +7,4 @@ Todo:
 - How to increase batch size?
 - How to freeze layers?
 - How to implement learning rate scheduler?
-- Train 3 epochs BYOL
+- Train 3 epochs DenseNet121
