@@ -1,7 +1,6 @@
 # Master Thesis
 
 Todo:
-- Implement SimCLR (https://github.com/lightly-ai/lightly?tab=readme-ov-file)
 - Implement MoCo v2 (https://github.com/lightly-ai/lightly?tab=readme-ov-file)
 - Implement MambaVision + BYOL
 - How to increase batch size?
